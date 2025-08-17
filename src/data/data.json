@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "title": "2.0 Job Ready AI Cohort Launch | Web Dev + DSA + Gen AI + Aptitude",
+    "thumbnail": "https://i.ytimg.com/vi/xGtcHcPVb0o/hqdefault.jpg",
+    "videoId": "xGtcHcPVb0o",
+    "embedUrl": "https://www.youtube.com/embed/xGtcHcPVb0o?si=39qLpl9_OOSTEuty",
+    "channel": "Sheryians Coding School",
+    "channelLogo": "https://yt3.googleusercontent.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s160-c-k-c0x00ffffff-no-rj",
+    "views": "157K views",
+    "description": "This is not just a course. It's your shortcut to landing a tech job.Full Stack Web Dev. DSA. Aptitude. All in one AI-boosted program",
+    "comments": [
+      { "user": "JSLearner", "text": "Sheriyans way of teaching is amazing!" },
+      { "user": "WebDev2023", "text": "Best JavaScript course in Hindi!" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+    "thumbnail": "https://i.ytimg.com/vi/JALCoY9MQg8/hqdefault.jpg",
+    "videoId": "JALCoY9MQg8",
+    "embedUrl": "https://www.youtube.com/embed/JALCoY9MQg8",
+    "channel": "Sheryians Coding School",
+    "channelLogo": "https://yt3.googleusercontent.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s160-c-k-c0x00ffffff-no-rj",
+    "views": "89K views",
+    "description": "Learn GSAP (GreenSock Animation Platform) from basics to advanced. Create stunning web animations with this comprehensive tutorial in Hindi.",
+    "comments": [
+      {
+        "user": "AnimationPro",
+        "text": "Finally a good GSAP tutorial in Hindi!"
+      },
+      {
+        "user": "CreativeDev",
+        "text": "Your examples make it so easy to understand."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "DSA Domination Cohort Launch | Language Independent | Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/hcxdmWyQEKY/hqdefault.jpg",
+    "videoId": "hcxdmWyQEKY",
+    "embedUrl": "https://www.youtube.com/embed/hcxdmWyQEKY",
+    "channel": "Sheryians Coding School",
+    "channelLogo": "https://yt3.googleusercontent.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s160-c-k-c0x00ffffff-no-rj",
+    "views": "184K views",
+    "description": "Ready to conquer those tricky coding rounds? Our exclusive DSA Independent Batch is launching soon – this trailer gives you a sneak peek into mastering Data Structures like Arrays, Linked Lists, Trees, Graphs, and Algorithms including Dynamic Programming, Sorting, Searching, and System Design.",
+    "comments": [
+      {
+        "user": "BackendDev",
+        "text": "Finally understood Node.js concepts clearly!"
+      },
+      {
+        "user": "MERNdev",
+        "text": "Your teaching style makes complex topics simple."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "React JS Full Course 2023 | Build an App and Master React in 1 Hour",
+    "thumbnail": "https://i.ytimg.com/vi/b9eMGE7QtTk/hq720.jpg",
+    "videoId": "b9eMGE7QtTk",
+    "embedUrl": "https://www.youtube.com/embed/b9eMGE7QtTk",
+    "channel": "JavaScript Mastery",
+    "channelLogo": "https://yt3.googleusercontent.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s160-c-k-c0x00ffffff-no-rj",
+    "views": "1.4M views",
+    "description": "Master React in this comprehensive course! We'll build a modern application while covering core concepts like hooks, state management, routing, and best practices.",
+    "comments": [
+      {
+        "user": "JaneDoe",
+        "text": "This course helped me land my first dev job!"
+      },
+      {
+        "user": "ReactLearner",
+        "text": "Perfect pace and explanation. Thanks!"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Next.js 13 Crash Course | App Router, React Server Components & More",
+    "thumbnail": "https://i.ytimg.com/vi/Y6KDk5iyrYE/hq720.jpg",
+    "videoId": "Y6KDk5iyrYE",
+    "embedUrl": "https://www.youtube.com/embed/Y6KDk5iyrYE",
+    "channel": "Traversy Media",
+    "channelLogo": "https://yt3.googleusercontent.com/ytc/APkrFKYcYswt_UhD7D0j6ddiQz6Gb8Q_vSJOjhYI0CoXSw=s176-c-k-c0x00ffffff-no-rj",
+    "views": "892K views",
+    "description": "Learn the newest features in Next.js 13 including the revolutionary App Router, React Server Components, and improved data fetching methods.",
+    "comments": [
+      { "user": "NextDev", "text": "Brad's tutorials are always top notch!" },
+      {
+        "user": "WebBuilder",
+        "text": "Finally understanding server components!"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "TypeScript Tutorial for Beginners | Crash Course",
+    "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg",
+    "videoId": "d56mG7DezGs",
+    "embedUrl": "https://www.youtube.com/embed/d56mG7DezGs",
+    "channel": "Programming with Mosh",
+    "channelLogo": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s176-c-k-c0x00ffffff-no-rj-mo",
+    "views": "1.1M views",
+    "description": "Learn TypeScript from scratch! This comprehensive tutorial covers types, interfaces, generics, and everything you need to know to get started with TypeScript.",
+    "comments": [
+      {
+        "user": "TypeMaster",
+        "text": "Mosh explains complex concepts so well!"
+      },
+      {
+        "user": "JSConverter",
+        "text": "Finally making the switch to TypeScript!"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Tailwind CSS Full Course 2023 | Build and Deploy a Modern Website",
+    "thumbnail": "https://i.ytimg.com/vi/tS7upsfuxmo/hq720.jpg",
+    "videoId": "tS7upsfuxmo",
+    "embedUrl": "https://www.youtube.com/embed/tS7upsfuxmo",
+    "channel": "Coding Lab",
+    "channelLogo": "https://yt3.ggpht.com/DmghRnKahPXieyntviTBUKTe1xE-uj03j7mMOT0-EYAkE72bVvf4h6p2IOUZb_goIlt4_OSBAJs=s176-c-k-c0x00ffffff-no-rj-mo",
+    "views": "456K views",
+    "description": "Master Tailwind CSS by building a stunning modern website. Learn utility classes, responsive design, dark mode, and advanced animations.",
+    "comments": [
+      { "user": "CSSNinja", "text": "Never going back to regular CSS!" },
+      {
+        "user": "WebDesigner",
+        "text": "This transformed my development workflow."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "MERN Stack Tutorial | Build a Social Media App",
+    "thumbnail": "https://i.ytimg.com/vi/VsUzmlZfYNg/hq720.jpg",
+    "videoId": "VsUzmlZfYNg",
+    "embedUrl": "https://www.youtube.com/embed/VsUzmlZfYNg",
+    "channel": "Code with Antonio",
+    "channelLogo": "https://yt3.ggpht.com/kub0rXGIpWKXcfe9F_jQmutFzojSZWR7TA2GneW2dbnefqUEVC7msiDdZFuAsGM22Le3Vv-2=s176-c-k-c0x00ffffff-no-rj-mo  ",
+    "views": "723K views",
+    "description": "Build a full-stack social media application using MongoDB, Express, React, and Node.js. Includes authentication, real-time updates, and image uploads.",
+    "comments": [
+      { "user": "FullStackDev", "text": "Best MERN stack tutorial out there!" },
+      {
+        "user": "MongoMaster",
+        "text": "Finally understood how everything connects."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Create a GTA 6 Website with React.js | Full Tutorial for Beginners",
+    "thumbnail": "https://i.ytimg.com/vi/tccIAsqFgG0/hq720.jpg",
+    "videoId": "tccIAsqFgG0",
+    "embedUrl": "https://www.youtube.com/embed/tccIAsqFgG0",
+    "channel": "Sheryians Coding School",
+    "channelLogo": "https://yt3.ggpht.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s48-c-k-c0x00ffffff-no-rj",
+    "views": "329K views",
+    "description": "Learn how to build a stunning GTA 6 website using React.js in this step-by-step tutorial. Perfect for beginners looking to level up their frontend skills with a real-world project!.",
+    "comments": [
+      { "user": "ContainerPro", "text": "Greate video harsh bhaiya!" },
+      {
+        "user": "CloudArchitect",
+        "text": "Awsome Content."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Build a Stunning Portfolio Website | React + Three.js",
+    "thumbnail": "https://i.ytimg.com/vi/0fYi8SGA20k/hq720.jpg",
+    "videoId": "0fYi8SGA20k",
+    "embedUrl": "https://www.youtube.com/embed/0fYi8SGA20k",
+    "channel": "Creative Coder",
+    "channelLogo": "https://yt3.ggpht.com/1RS3z3-sLJcgsOGNFE8tQ7ntIj3lcfDaR-vmbHtsSYXJcuepAiLyCWfhBNCgR-b27cN9mueSLA=s176-c-k-c0x00ffffff-no-rj-mo",
+    "views": "245K views",
+    "description": "Create an impressive 3D portfolio website using React and Three.js. Learn about 3D animations, effects, and responsive design.",
+    "comments": [
+      {
+        "user": "3DArtist",
+        "text": "This took my portfolio to the next level!"
+      },
+      { "user": "WebGL_Fan", "text": "Amazing combination of web and 3D!" }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Redux Toolkit Tutorial | Modern State Management",
+    "thumbnail": "https://i.ytimg.com/vi/iBUJVy8phqw/hq720.jpg",
+    "videoId": "iBUJVy8phqw",
+    "embedUrl": "https://www.youtube.com/embed/iBUJVy8phqw",
+    "channel": "Redux Master",
+    "channelLogo": "https://yt3.ggpht.com/LqEe2MROeX-T_wRVEIvOCp71uPwYIAjfh1odoLvZfLP2xtQ_PVP-1c-Iz0BylJ03G9o1__XqpLU=s176-c-k-c0x00ffffff-no-rj-mo",
+    "views": "567K views",
+    "description": "Master modern state management with Redux Toolkit. Learn about slices, thunks, RTK Query, and best practices for large applications.",
+    "comments": [
+      { "user": "StateManager", "text": "Finally Redux clicks for me!" },
+      { "user": "ReactPro", "text": "RTK Query is a game changer." }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "College Rules Are DESTROYING Your Future | Must Watch for Students!",
+    "thumbnail": "https://i.ytimg.com/vi/63IGdvpsNK0/hqdefault.jpg",
+    "videoId": "63IGdvpsNK0",
+    "embedUrl": "https://www.youtube.com/embed/63IGdvpsNK0",
+    "channel": "Sheryians Coding School",
+    "channelLogo": "https://yt3.googleusercontent.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s160-c-k-c0x00ffffff-no-rj",
+    "views": "246K views",
+    "description": "In this eye-opening video, I’m exposing how outdated college policies are silently killing your career before it even begins. If you're a student struggling with internships, NOC issues, or fake trainings — this is a must-watch.",
+    "comments": [
+      {
+        "user": "CSSMaster",
+        "text": "Perfect explanation of complex CSS concepts"
+      },
+      {
+        "user": "FrontEndLearner",
+        "text": "Best CSS course I've found in Hindi"
+      }
+    ]
+  }
+]
