@@ -1,39 +1,26 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import data from "../data.json";
+import videos from "../data/data.json";
+import VideoCard from "../components/VideoCard";
 
-const VideoLists = () => {
+const Home = () => {
   return (
-    <div className="grid grid-cols-4 gap-4 p-4">
-      {data.map((video) => (
-        <Link
-          key={video.id}
-          to={`/video/${video.id}`}
-          className="bg-white rounded-lg shadow hover:shadow-lg transition"
-        >
-          <img
-            src={video.thumbnail}
-            alt={video.title}
-            className="w-full h-48 object-cover rounded-t-lg"
+    <section className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 max-w-[1500px] mx-auto p-6">
+      {videos.map((v) => (
+        <Link to={`/video/${v.id}`} key={v.id}>
+          <VideoCard
+            id={v.id}
+            thumbnail={v.thumbnail}
+            title={v.title}
+            channel={v.channel}
+            views={v.views}
+            time={v.time || v.date}
+            channelImage={v.channelLogo || v.avatar || "https://via.placeholder.com/40"}
           />
-          <div className="p-3 flex gap-2">
-            <img
-              src={video.channelLogo}
-              alt={video.channel}
-              className="w-10 h-10 rounded-full"
-            />
-            <div>
-              <h3 className="font-semibold text-sm line-clamp-2">
-                {video.title}
-              </h3>
-              <p className="text-xs text-gray-500">{video.channel}</p>
-              <p className="text-xs text-gray-500">{video.views}</p>
-            </div>
-          </div>
         </Link>
       ))}
-    </div>
+    </section>
   );
 };
 
-export default VideoLists;
+export default Home;

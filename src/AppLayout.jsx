@@ -5,15 +5,14 @@ import MainRoute from "./Routes/MainRoute";
 
 const AppLayout = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-
   const toggleSidebar = () => setSidebarOpen((s) => !s);
 
   return (
-    <div className="app-root">
+    <div className="app-root bg-gray-50 min-h-screen">
       <Navbar onToggleSidebar={toggleSidebar} />
-      <div className="app-body">
+      <div className="app-body flex">
         <Sidebar open={sidebarOpen} />
-        <main className="app-main" onClick={() => sidebarOpen && setSidebarOpen(false)}>
+        <main className="flex-1" onClick={() => sidebarOpen && setSidebarOpen(false)}>
           <MainRoute />
         </main>
       </div>
